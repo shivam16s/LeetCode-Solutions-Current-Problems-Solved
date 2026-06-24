@@ -54,5 +54,4 @@
 
 ## Solutions
 - [C++](solution.cpp)
-- [.txt](solution.txt)
 
