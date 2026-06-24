@@ -9,11 +9,11 @@
 ## Stats (Latest Submission)
 | Metric | Value |
 |--------|-------|
-| Runtime | 8 ms |
-| Runtime Beats | 41.63289999999999% |
-| Memory | 22.7 MB |
-| Memory Beats | 50.05219999999999% |
-| Timestamp | Wed, 24 Jun 2026 14:52:36 GMT |
+| Runtime | 11 ms |
+| Runtime Beats | 24.92329999999999% |
+| Memory | 22.5 MB |
+| Memory Beats | 71.09859999999999% |
+| Timestamp | Wed, 24 Jun 2026 15:13:07 GMT |
 
 ## Problem Description
 <p>Given an array&nbsp;of <code>intervals</code>&nbsp;where <code>intervals[i] = [start<sub>i</sub>, end<sub>i</sub>]</code>, merge all overlapping intervals, and return <em>an array of the non-overlapping intervals that cover all the intervals in the input</em>.</p>
