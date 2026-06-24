@@ -13,7 +13,7 @@
 | Runtime Beats | N/A% |
 | Memory | N/A |
 | Memory Beats | N/A% |
-| Timestamp | Wed, 24 Jun 2026 14:47:13 GMT |
+| Timestamp | Wed, 24 Jun 2026 14:47:47 GMT |
 
 ## Problem Description
 <p><span style="font-size: 14pt;">You are given an array <strong>arr[]</strong> of non-negative numbers. Each number tells you the <strong>maximum number of steps</strong> you can jump forward from that position.</span></p>
