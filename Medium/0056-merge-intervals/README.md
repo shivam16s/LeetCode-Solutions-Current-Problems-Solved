@@ -1,18 +1,17 @@
 # [56. Merge Intervals](https://leetcode.com/problems/merge-intervals)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange)
-![Language](https://img.shields.io/badge/Language-undefined-blue)
 
 ## Tags
 `Array` `Sorting`
 
-## Stats
+## Stats (Latest Submission)
 | Metric | Value |
 |--------|-------|
-| Runtime | 4 ms |
-| Runtime Beats | 65.7337% |
-| Memory | 23.7 MB |
-| Memory Beats | 82.07719999999998% |
+| Runtime | 5 ms |
+| Runtime Beats | 51.605599999999995% |
+| Memory | 23.9 MB |
+| Memory Beats | 31.103899999999978% |
 | Timestamp | Thu, 01 Jan 1970 00:33:46 GMT |
 
 ## Problem Description
@@ -53,5 +52,7 @@
 </ul>
 
 
-## Solution
-[View Code](solution.txt)
+## Solutions
+- [C++](solution.cpp)
+- [.txt](solution.txt)
+
